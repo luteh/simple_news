@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 60664,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Jake Peterson",
+            "title": "Don't Buy Apple's Accessories",
+            "description": "I’m an Apple fan. I’m pretty much entirely enrolled in the ecosystem, working between my iPhone, iPad, Mac, and Apple Watch throughout the day (sadly, no iPod). However, there’s one aspect of the Apple universe that I don’t subscribe to, and, in fact, make an…",
+            "url": "https://lifehacker.com/dont-buy-apples-accessories-1848340426",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cbf0e41d3ec1fbdcf770e8b92576a30e.jpg",
+            "publishedAt": "2022-01-12T14:00:00Z",
+            "content": "Im an Apple fan. Im pretty much entirely enrolled in the ecosystem, working between my iPhone, iPad, Mac, and Apple Watch throughout the day (sadly, no iPod). However, theres one aspect of the Apple … [+3283 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogspot.com"
+            },
+            "author": "noreply@blogger.com (Unknown)",
+            "title": "Apple loses lead Apple Silicon designer Jeff Wilcox to Intel",
+            "description": "<table><tr><td></td></tr><tr><td>The Apple Park campus stands in this aerial photograph taken above Cupertino in October 2019.Sam Hall/Bloomberg via Getty Images\r\n</td></tr>\r\n</table>Jeff Wilcox, Apple Silicon Leader and T2 security processor developer, left …",
+            "url": "https://techncruncher.blogspot.com/2022/01/apple-loses-lead-apple-silicon-designer.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEhsD9plQxZkyvoBkexZvwjUxzUlXrow7eMX5ORVPL6m_vfersUtgPKD4ch_dPPlZtlcjjx6WoevanzFtx3KDEfaSOfIuOv9bt4Py8p2uf1cFoW56SFM4wwENTCnMme4hgNrDXpIaced6D_uRA4d7ex7zElT6q63PbLg9BuKqhH72ahNntF9Rj8_kn2CwQ=w1200-h630-p-k-no-nu",
+            "publishedAt": "2022-01-07T13:18:00Z",
+            "content": "Jeff Wilcox, Apple Silicon Leader and T2 security processor developer, left Apple to join Intel and oversee the architecture of all Intel System-ona-Chip (SoC) designs.As Apple heads to the end of it… [+1078 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "James Vincent",
+            "title": "Apple promises third-party payment options in iOS for South Korean users",
+            "description": "Apple will allow third-party payment options for the first time in iOS apps in South Korea. Google announced similar concessions following legislation designed to weaken Apple and Google’s grip on their respective app stores.",
+            "url": "https://www.theverge.com/2022/1/11/22877952/apple-third-party-payments-app-store-south-korea",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/r9UQpwU7k-G2aeq6L8OPdaS9jKc=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11477053/acastro_180604_1777_apple_wwdc_0004.jpg",
+            "publishedAt": "2022-01-11T11:56:47Z",
+            "content": "Apple gives up in South Korea, but the terms of surrender are still unclear\r\nIllustration by Alex Castro / The Verge\r\nApple says it will introduce third-party payment options for the first time ever … [+2356 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Apple now has 1.8 billion active devices",
+            "description": "Apple now has 1.8 billion active devices worldwide. The iPhone maker posted record revenue and profits, boosted by strong Mac and iPhone holiday sales.",
+            "url": "https://www.theverge.com/2022/1/28/22906071/apple-1-8-billion-active-devices-stats",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/EH6wOPkCtsfHYaCN9zEo8GR10NE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13959855/acastro_190218_1777_apple_streaming_0003.jpg",
+            "publishedAt": "2022-01-28T11:24:40Z",
+            "content": "Apples device numbers jump as it posts record earnings\r\nIllustration by Alex Castro / The Verge\r\nApple made more money than ever during the holiday season, and its growth during 2021 has helped the c… [+1422 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Igor Bonifacic",
+            "title": "Apple pulls verification requirement for US education shoppers",
+            "description": "Earlier this week, Apple began requiring that students and teachers in the US verify their identity\r\n through authentication service UNiDAYS before they could take advantage of the company’s discounted education pricing. The move closed a long-standing loopho…",
+            "url": "https://www.engadget.com/apple-removes-unidays-verification-us-education-store-191748103.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-12/d37e0460-3eeb-11eb-b7f9-449e864b9135",
+            "publishedAt": "2022-01-22T19:17:48Z",
+            "content": "Earlier this week, Apple began requiring that students and teachers in the US verify their identity\r\n through authentication service UNiDAYS before they could take advantage of the companys discounte… [+1048 chars]"
+        }
+    ]
+}
